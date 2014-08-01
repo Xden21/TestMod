@@ -24,8 +24,9 @@ public class TestMod
     }
 
     @Mod.EventHandler
-    public void PostInit (FMLPostInitializationEvent e)
+    public void PostInit(FMLPostInitializationEvent e)
     {
 
     }
 }
+
